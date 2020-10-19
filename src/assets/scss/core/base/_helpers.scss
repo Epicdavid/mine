@@ -132,6 +132,16 @@ img.has-shadow {
 	border-radius: 50%;
 	opacity: 50%;
 	pointer-events: none;
+	height: 300px;
+}
+
+@media only screen and (max-width: 768px) {
+	img.has-shadow {
+		border-radius: 50%;
+		opacity: 50%;
+		pointer-events: none;
+		height: 200px;
+	}
 }
 
 // Dividers
