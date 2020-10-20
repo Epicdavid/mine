@@ -60,7 +60,7 @@ const Hero = ({
 
             <Image
               className="has-shadow"
-              src={require('./../../assets/images/deepas.png')}
+              src={require('./../../assets/images/gitpics.png')}
               alt="..."
             />
 
