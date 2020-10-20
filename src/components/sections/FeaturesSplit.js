@@ -69,7 +69,7 @@ const FeaturesSplit = ({
                   Deezisoft Company website
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Python, Django, React
+                  Python-Django-Javascript-React
                   </h3>
                 <p className="m-0">
                   A company website, with react front-end and python backend, using django and the rest framework to implent api for core front-end functionality of contact form and company blog.
@@ -102,7 +102,7 @@ const FeaturesSplit = ({
                   customer management app
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Python,Django, Bootstrap, heroku, AWS
+                  Python,Django, Bootstrap, heroku, AWS,postgres
                   </h3>
                 <p className="m-0">
                   A customer management app that, can be integrated into any webapp built with django, for user management. mainly E-commerce for taking care of orders and stuff.
@@ -133,7 +133,7 @@ const FeaturesSplit = ({
                   REIT web application
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Python-Django-React
+                  Python-Django-Javascript-React
                   </h3>
                 <p className="m-0">
                   A REIT webapp that allows users buy REITs. with Dashboard and user management.
@@ -164,7 +164,7 @@ const FeaturesSplit = ({
                   Crypto web application
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Python-Django-React
+                  Python-Django-Javascript-React
                   </h3>
                 <p className="m-0">
                   A web app for managing, buying and investing in crypto assets. with Dashboard and user management.
