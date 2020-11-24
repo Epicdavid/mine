@@ -128,46 +128,15 @@ const FeaturesSplit = ({
             </div>
 
             <div className="split-item">
-              <div className="split-item-content center-content-mobile reveal-from-right" data-reveal-container=".split-item">
-                <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  REIT web application
-                  </div>
-                <h3 className="mt-0 mb-12">
-                  Python-Django-Javascript-React
-                  </h3>
-                <p className="m-0">
-                  A REIT webapp that allows users buy REITs. with Dashboard and user management.
-                  using python as backend and django framework with Rest framework to implent api for core various React front-end functionality.
-                  </p>
-              </div>
-              <div className={
-                classNames(
-                  'split-item-image center-content-mobile reveal-from-bottom',
-                  imageFill && 'split-item-image-fill'
-                )}
-                data-reveal-container=".split-item">
-                <Image
-                  src={require('./../../assets/images/flix.png')}
-                  alt="Features split 02"
-                  width={528}
-                  height={396} />
-                <a className="text-xxs text-color-primary text-center fw-600 tt-u mb-8" style={{ color: "#03a9f4", textAlign: "center" }} href="https://fix2flipproperties.com/" target="_blank" rel="noopener noreferrer"> View </a>
-
-              </div>
-            </div>
-
-
-
-            <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Crypto web application
+                  User Max
                   </div>
                 <h3 className="mt-0 mb-12">
                   Python-Django-Javascript-React
                   </h3>
                 <p className="m-0">
-                  A web app for managing, buying and investing in crypto assets. with Dashboard and user management.
+                  A web app starterkit for buying services with crypto(Bitcoin). with Dashboard and user management.
                   using python as backend and django framework with Rest framework to implent api for core various React front-end functionality.
                   </p>
               </div>
@@ -178,11 +147,11 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/dip.PNG')}
+                  src={require('./../../assets/images/omo.png')}
                   alt="Features split 03"
                   width={528}
                   height={396} />
-                <a className="text-xxs text-color-primary text-center fw-600 tt-u mb-8" style={{ color: "#03a9f4", textAlign: "center" }} href="https://dippace.com/" target="_blank" rel="noopener noreferrer"> View </a>
+                <a className="text-xxs text-color-primary text-center fw-600 tt-u mb-8" style={{ color: "#03a9f4", textAlign: "center" }} href="https://usermax.herokuapp.com" target="_blank" rel="noopener noreferrer"> View </a>
               </div>
             </div>
 
